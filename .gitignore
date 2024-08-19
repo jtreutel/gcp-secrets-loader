@@ -1,0 +1,5 @@
+# Don't check in binaries
+gcp-secrets-loader
+
+# Don't check in test data
+test.csv
